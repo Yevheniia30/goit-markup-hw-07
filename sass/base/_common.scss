@@ -51,33 +51,26 @@ p {
   padding-left: 15px;
   padding-right: 15px;
 }
-.section.features {
+// .section.features {
+// padding-top: 94px;
+// padding-bottom: 94px;
+// }
+// .section.skills {
+// padding-top: 47px;
+// padding-bottom: 94px;
+// }
+// .section.team,
+// .section.clients {
+// padding-top: 94px;
+// padding-bottom: 94px;
+// }
+.section {
   padding-top: 94px;
-  padding-bottom: 47px;
-}
-.section.skills {
-  padding-top: 47px;
   padding-bottom: 94px;
-}
-.section.team,
-.section.clients {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-.footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
 }
 .section-title {
   margin-bottom: 50px;
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
-}
-.features .title {
-  display: inline-block;
-  margin-bottom: 10px;
-  font-size: 14px;
-  line-height: 1.14;
-  text-transform: uppercase;
 }

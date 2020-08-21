@@ -46,7 +46,7 @@ body {
   padding-top: 80px;
   font-family: var(--main-font);
   background-color: var(--clear-white-color);
-  color: var(--primary-text-color);
+  color: $primary-text-color;
   letter-spacing: 0.03em;
 }
 .list {
@@ -544,7 +544,7 @@ img {
 }
 .portfolio-projects .title {
   margin-bottom: 4px;
-  color: var(--primary-text-color);
+  color: $primary-text-color;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -648,7 +648,7 @@ img {
   position: absolute;
   top: 11px;
   left: 12px;
-  fill: var(--primary-text-color);
+  fill: $primary-text-color;
   width: 18px;
   height: 18px;
   transition: fill 250ms var(--transition-timing-function);
@@ -681,7 +681,7 @@ img {
   font-size: 20px;
   line-height: 1.15;
   text-align: center;
-  color: var(--primary-text-color);
+  color: $primary-text-color;
 }
 .form-field.comment {
   margin-bottom: 20px;
